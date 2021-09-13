@@ -31,6 +31,14 @@
       "nomor_telp":"(0717) 92404",
       "kordinat":"-1.890392,106.1106355",
       "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y6/Y943776/Y943776006.jpg"
-     }
+    },
+    {
+      "id":5,
+      "nama":"Hotel Ren'z",
+      "alamat":"Jl. Soekarno Hatta No.46, Bukitintan, Kec. Girimaya, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684",
+      "nomor_telp":"(021) 29707600",
+      "kordinat":"-2.1309447,106.1091327",
+      "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/17/a7/c3/a2/oyo-633-ren-z-hotel.jpg"
+    }
   ]
  }
