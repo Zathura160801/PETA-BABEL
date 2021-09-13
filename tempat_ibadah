@@ -1,0 +1,11 @@
+{
+  "tempat_ibadah":[
+    {
+      "id":1,
+      "nama":"Masjid Agung Baing Yusuf Purwakarta",
+      "jenis":"masjid",
+      "latitude":"-6.555715",
+      "longitude":"107.441069"
+    }
+  ]
+}
