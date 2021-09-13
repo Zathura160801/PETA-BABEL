@@ -10,7 +10,7 @@
     },
     {
       "id":2,
-      "nama":"Novilla Boutique Resort ",
+      "nama":"Novilla Boutique Resort",
       "alamat":"Jl. Laut, Kampung Pasir, Sungailiat, Kuday, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33255",
       "nomor_telp":"(0717) 92535",
       "kordinat":"-6.478927, 107.481261",
@@ -18,11 +18,19 @@
     },
     {
       "id":3,
-      "nama":"Hotel ST12 ",
+      "nama":"Hotel ST12",
       "alamat":"Jl. Cut Nyak Dhien, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "nomor_telp":"(0717) 29707600",
       "kordinat":"-1.8774454,106.115597",
       "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y5/Y937515/Y937515004.jpg"
+    },
+    {
+      "id":4,
+      "nama":"Hotel BOS",
+      "alamat":"Jl. Jenderal Sudirman No.343, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "nomor_telp":"(0717) 92404",
+      "kordinat":"-1.890392,106.1106355",
+      "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y6/Y943776/Y943776006.jpg"
      }
   ]
  }
