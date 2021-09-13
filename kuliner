@@ -1,0 +1,13 @@
+{
+  "kuliner":[
+    {
+      "id":1,
+      "nama":"Surabi Kedai Koka",
+      "alamat":"Jl. Taman Pahlawan No.2, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41119",
+      "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 22.00 WIB.",
+      "kordinat":"-6.537805, 107.440721",
+      "gambar_url":"http:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/kuliner\/1.jpg",
+      "kategori":"Kuliner Inovasi"
+    }
+  ]
+}
