@@ -2,12 +2,12 @@
   "kuliner":[
     {
       "id":1,
-      "nama":"Surabi Kedai Koka",
-      "alamat":"Jl. Taman Pahlawan No.2, Nagri Kaler, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat 41119",
-      "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 22.00 WIB.",
-      "kordinat":"-6.537805, 107.440721",
-      "gambar_url":"http:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/kuliner\/1.jpg",
-      "kategori":"Kuliner Inovasi"
+      "nama":"RM Pangeran Sungailiat",
+      "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "kategori":"Rumah Makan"
     }
   ]
 }
