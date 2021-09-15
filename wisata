@@ -16,7 +16,19 @@
       "id":3,
       "nama":"Benteng Kota Kapur",
       "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Benteng-Kota-Kapur.jpg",
-      "alamat":"Jl. Nelayan, Kota Kapur, Kec. Mendo Barat, Kab. Bangka, Kepulauan Bangka Belitung."
+      "alamat":"Jl. Nelayan, Kota Kapur, Kec. Mendo Barat, Kab. Bangka, Kepulauan Bangka Belitung"
+    },
+    {
+      "id":4,
+      "nama":"Batu Belimbing",
+      "gambar_url":"https://cdn1-production-images-kly.akamaized.net/6TIj5IzBtj4A1ClVMZz0z_j_ODk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2856576/original/064497100_1563425288-belimbling.jpg",
+      "alamat":"Tanjung Ketapang, Kec. Bang Toboali, Kab. Bangka Selatan, Kepulauan Bangka Belitung"
+    },
+    {
+      "id":5,
+      "nama":"Wisata Mangrove Munjang Kurau Barat",
+      "gambar_url":"https://1.bp.blogspot.com/-26ms1_8Nw5c/X5Cmgmmk23I/AAAAAAAAFcI/dSbXZO3L4gsuCST5rFUQ7B9zIYj0v4rUACLcBGAsYHQ/s522/wisata-mangrove-bangka-tengah.jpg",
+      "alamat":"Kurau Barat, Kec. Koba, Kab. Bangka Tengah, Kepulauan Bangka Belitung"
     }
   ]
 }
