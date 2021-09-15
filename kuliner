@@ -1,6 +1,17 @@
 {
   "kuliner":[
     {
+      "id":10,
+      "nama":"Adi Putera Zhou",
+      "alamat":"Jalan Singa Yudha 1 No. 2 Pemda, Kelurahan, Bukit Betung, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
+      "gambar_url":"https://media-exp1.licdn.com/dms/image/C5603AQE-uji-ZmiqdA/profile-displayphoto-shrink_200_200/0/1622718038016?e=1634169600&v=beta&t=2h5lPBRdVdIY7C_4FCBQPhU3x_at3Prv_PbJq4i_cZA",
+      "nomor_telp":"(0717) 827634",
+      "deskripsi":"Warung Bakso Pakde Tardi adalah warung bakso yang telah berdiri sejak 1979",
+      "kategori":"Rumah Makan"
+    },
+    {
       "id":1,
       "nama":"Warung Bakso Pakde Tardi",
       "alamat":"Jalan Singa Yudha 1 No. 2 Pemda, Kelurahan, Bukit Betung, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211",
