@@ -2,43 +2,36 @@
   "kuliner":[
     {
       "id":1,
-      "nama":"Novotel Bangka Hotel and Convention Centre",
-      "alamat":"Jl Soekarno Hatta Km 5 Pangkalpinang, Kep, Dul, Pangkalan Baru, Central Bangka Regency, Bangka Belitung Islands 33137",
-      "nomor_telp":"(0717)-436888",
-      "kordinat":"-6.478927, 107.481261",
-      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg"
+      "nama":"RM Pangeran Sungailiat",
+      "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "nomor_telp":"000000",
+      "deskripsi":"Acak Adul",
+      "kategori":"Rumah Makan"
     },
     {
       "id":2,
-      "nama":"Novilla Boutique Resort",
-      "alamat":"Jl. Laut, Kampung Pasir, Sungailiat, Kuday, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33255",
-      "nomor_telp":"(0717) 92535",
-      "kordinat":"-6.478927, 107.481261",
-      "gambar_url":"https://www.bangkatour.com/wp-content/uploads/2018/12/image-9.jpg"
+      "nama":"RM Pangeran Sungailiat",
+      "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "nomor_telp":"000000",
+      "deskripsi":"Acak Adul",
+      "kategori":"Rumah Makan"
     },
     {
       "id":3,
-      "nama":"Hotel ST12",
-      "alamat":"Jl. Cut Nyak Dhien, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
-      "nomor_telp":"(0717) 29707600",
-      "kordinat":"-1.8774454,106.115597",
-      "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y5/Y937515/Y937515004.jpg"
-    },
-    {
-      "id":4,
-      "nama":"Hotel BOS",
-      "alamat":"Jl. Jenderal Sudirman No.343, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
-      "nomor_telp":"(0717) 92404",
-      "kordinat":"-1.890392,106.1106355",
-      "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y6/Y943776/Y943776006.jpg"
-    },
-    {
-      "id":5,
-      "nama":"Hotel Ren'z",
-      "alamat":"Jl. Soekarno Hatta No.46, Bukitintan, Kec. Girimaya, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684",
-      "nomor_telp":"(021) 29707600",
-      "kordinat":"-2.1309447,106.1091327",
-      "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/17/a7/c3/a2/oyo-633-ren-z-hotel.jpg"
+      "nama":"RM Pangeran Sungailiat",
+      "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "nomor_telp":"000000",
+      "deskripsi":"Acak Adul",
+      "kategori":"Rumah Makan"
     }
   ]
- }
+}
