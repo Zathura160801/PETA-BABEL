@@ -11,6 +11,12 @@
       "nama":"Pantai Parai Tenggiri",
       "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Pantai-Parai-Tenggiri.jpg",
       "alamat":"Sinar Baru, Sungai Liat, Bangka Regency, Bangka Belitung Islands"
+    },
+    {
+      "id":3,
+      "nama":"Benteng Kota Kapur",
+      "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Benteng-Kota-Kapur.jpg",
+      "alamat":"Jl. Nelayan, Kota Kapur, Kec. Mendo Barat, Kab. Bangka, Kepulauan Bangka Belitung."
     }
   ]
 }
