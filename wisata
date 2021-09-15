@@ -2,9 +2,10 @@
   "wisata":[
     {
       "id":1,
-      "nama":"Alun-Alun Kian Santang",
-      "gambar_url":"http:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/wisata\/gambar_1.jpg",
-      "kategori":"Taman"
+      "nama":"Pantai Romodong",
+      "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/07/cb/bc/00/pantai-romodong.jpg",
+      "alamat":"Bukit Ketok, Belinyu, Bangka Regency, Bangka Belitung Islands",
+      "link":"https://media-cdn.tripadvisor.com/media/photo-s/07/cb/bc/00/pantai-romodong.jpg"
     }
   ]
 }
