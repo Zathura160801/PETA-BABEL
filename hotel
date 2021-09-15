@@ -13,7 +13,7 @@
       "nama":"Novilla Boutique Resort",
       "alamat":"Jl. Laut, Kampung Pasir, Sungailiat, Kuday, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33255",
       "nomor_telp":"(0717) 92535",
-      "kordinat":"-6.478927, 107.481261",
+      "kordinat":"https://www.google.com/maps/place/Novilla+Boutique+Resort/@-1.8458745,106.1099027,17z/data=!3m1!4b1!4m8!3m7!1s0x2e22f3b211af12a9:0x260eeed28675c0d0!5m2!4m1!1i2!8m2!3d-1.8458799!4d106.1120914?hl=id",
       "gambar_url":"https://www.bangkatour.com/wp-content/uploads/2018/12/image-9.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "nama":"Hotel ST12",
       "alamat":"Jl. Cut Nyak Dhien, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "nomor_telp":"(0717) 29707600",
-      "kordinat":"-1.8774454,106.115597",
+      "kordinat":"https://www.google.com/maps/place/Hotel+ST12/@-1.8880121,106.1150403,17z/data=!3m1!4b1!4m8!3m7!1s0x2e22f2f38be3ffb3:0xb2c76589c8d1850e!5m2!4m1!1i2!8m2!3d-1.8880175!4d106.117229?hl=id",
       "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y5/Y937515/Y937515004.jpg"
     },
     {
@@ -29,7 +29,7 @@
       "nama":"Hotel BOS",
       "alamat":"Jl. Jenderal Sudirman No.343, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "nomor_telp":"(0717) 92404",
-      "kordinat":"-1.890392,106.1106355",
+      "kordinat":"https://www.google.com/maps/place/Hotel+BOS/@-1.8994351,106.1088499,17z/data=!3m1!4b1!4m8!3m7!1s0x2e22f24db0935d7b:0x8f026f073d7f9724!5m2!4m1!1i2!8m2!3d-1.8994405!4d106.1110386?hl=id",
       "gambar_url":"https://origin.pegipegi.com/jalan/images/pict1L/Y6/Y943776/Y943776006.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "nama":"Hotel Ren'z",
       "alamat":"Jl. Soekarno Hatta No.46, Bukitintan, Kec. Girimaya, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684",
       "nomor_telp":"(021) 29707600",
-      "kordinat":"-2.1309447,106.1091327",
+      "kordinat":"https://www.google.com/maps/place/Ren'z+Hotel/@-2.1354969,106.1162094,17z/data=!3m1!4b1!4m8!3m7!1s0x2e22c0d34758a3b5:0xac5573180594e84d!5m2!4m1!1i2!8m2!3d-2.1355043!4d106.1183948?hl=id",
       "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/17/a7/c3/a2/oyo-633-ren-z-hotel.jpg"
     },
     {
@@ -47,6 +47,38 @@
       "nomor_telp":"(0717) 92456",
       "kordinat":"https://www.google.com/maps/place/Hotel+Sutos/@-1.9043433,106.047493,12z/data=!4m9!1m2!2m1!1shotel!3m5!1s0x2e22f3767fc19021:0x7f951bef905e7eac!5m2!4m1!1i2!15sCgVob3RlbJIBC2d1ZXN0X2hvdXNl?hl=id",
       "gambar_url":"https://pix10.agoda.net/hotelImages/116/1160718/1160718_16030817300040591070.jpg?s=1024x768"
+    },
+    {
+      "id":7,
+      "nama":"Hotel Santika Bangka",
+      "alamat":"Jalan Sukarno Hatta (Jalan Raya Koba) KM. 5 No. 17, Dul, Kec. Pangkalan Baru, Kabupaten Bangka Tengah, Kepulauan Bangka Belitung 33172",
+      "nomor_telp":"(0717) 4256888",
+      "kordinat":"https://www.google.com/maps/place/Hotel+Santika+Bangka/@-2.1543682,106.1199045,15z/data=!4m17!1m6!2m5!1shotel!5m3!5m2!4m1!1i2!3m9!1s0x2e22c12de9c822c5:0xbf2919859e023b3c!5m2!4m1!1i2!8m2!3d-2.1543682!4d106.1286592!15sCgVob3RlbJIBBWhvdGVs!16s%2Fg%2F1tvrfgpc?hl=id",
+      "gambar_url":"https://fastly.4sqi.net/img/general/600x600/L28lahZotyjP5cLwzH6auCFcBNPp_rZkvDWcp2S2TpI.jpg"
+    },
+    {
+      "id":8,
+      "nama":"Bangka City Hotel",
+      "alamat":"Jl. Aleksander I No.depan, CBC (Citraland, Botanical City, Kota Pangkal Pinang, Sumatera Selatan 11730",
+      "nomor_telp":"(0717) 4262907",
+      "kordinat":"https://www.google.com/maps/place/Bangka+City+Hotel/@-2.1384803,106.1375531,15z/data=!4m13!1m6!2m5!1shotel!5m3!5m2!4m1!1i2!3m5!1s0x2e22c0b05cfd62d3:0x4bd4f7aa2ffc6954!5m2!4m1!1i2!15sCgVob3RlbJIBBWhvdGVs?hl=id",
+      "gambar_url":"https://wowbabel.com/assets/images/news-images/df0ff96d0e0c4c3ff9a7ee2a64a5c066.jpg"
+    },
+    {
+      "id":9,
+      "nama":"Swiss-Belhotel Pangkalpinang",
+      "alamat":"Jl. Jendral Sudirman No.65, Gedung Nasional, Kec. Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684",
+      "nomor_telp":"(0717) 9105999",
+      "kordinat":"https://www.google.com/maps/place/Swiss-Belhotel+Pangkalpinang/@-2.1262889,105.8343244,10z/data=!4m17!1m6!2m5!1shotel!5m3!5m2!4m1!1i2!3m9!1s0x2e22c0d9d22718f1:0x89ac901c54e9b857!5m2!4m1!1i2!8m2!3d-2.1262889!4d106.1144757!15sCgVob3RlbJIBBWhvdGVs!16s%2Fg%2F11csqdn9pg?hl=id",
+      "gambar_url":"https://traveltext.id/wp-content/uploads/2019/06/Swiss-Belhotel-Pangkalpinang-Padukan-Hospitality-Modern-Lokal-740x493.jpg"
+    },
+    {
+      "id":10,
+      "nama":"ANT Home Room Budget",
+      "alamat":"Jl. Depati Hamzah, Semabung Lama, Bukit Intan, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684",
+      "nomor_telp":"(0717) 29707600",
+      "kordinat":"https://www.google.com/maps/place/ANT+Home+Room+Budget/@-2.1358052,105.8477313,10z/data=!4m13!1m6!2m5!1shotel!5m3!5m2!4m1!1i2!3m5!1s0x2e22c1d0dd328bef:0x4aff045f0348cbfd!5m2!4m1!1i2!15sCgVob3RlbJIBBWhvdGVs?hl=id",
+      "gambar_url":"https://cdn-2.tstatic.net/tribunnews/foto/bank/images/pasang-nuansa-putih-pada-tirai-jendela-untuk-memantulkan-panas-dari-dalam-rumah_20160414_113751.jpg"
     }
   ]
  }
