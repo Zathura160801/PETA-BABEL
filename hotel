@@ -39,6 +39,14 @@
       "nomor_telp":"(021) 29707600",
       "kordinat":"-2.1309447,106.1091327",
       "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/17/a7/c3/a2/oyo-633-ren-z-hotel.jpg"
+    },
+    {
+      "id":6,
+      "nama":"Hotel Sutos",
+      "alamat":"5427+CHF, Sungailiat, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung",
+      "nomor_telp":"(0717) 92456",
+      "kordinat":"https://www.google.com/maps/place/Hotel+Sutos/@-1.9043433,106.047493,12z/data=!4m9!1m2!2m1!1shotel!3m5!1s0x2e22f3767fc19021:0x7f951bef905e7eac!5m2!4m1!1i2!15sCgVob3RlbJIBC2d1ZXN0X2hvdXNl?hl=id",
+      "gambar_url":"https://pix10.agoda.net/hotelImages/116/1160718/1160718_16030817300040591070.jpg?s=1024x768"
     }
   ]
  }
