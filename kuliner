@@ -3,16 +3,27 @@
     {
       "id":1,
       "nama":"Warung Bakso Pakde Tardi",
-      "alamat":"JJalan Singa Yudha 1 No. 2 Pemda, Kelurahan, Bukit Betung, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211",
+      "alamat":"Jalan Singa Yudha 1 No. 2 Pemda, Kelurahan, Bukit Betung, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211",
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
       "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
-      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "gambar_url":"https://scontent.fplm1-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/147849570_121958163159425_4903759628177472867_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ed5ff1&efg=eyJpIjoidCJ9&_nc_eui2=AeGXu39qM0Mna-o3xOVgY9qSj0NFv5-hfnyPQ0W_n6F-fAu71Ks_Ff6u6fvkQo0LCEHMHPoirsqcUSB60UgMon56&_nc_ohc=hksn-XE-A-MAX-g1k1Z&_nc_ht=scontent.fplm1-1.fna&oh=57008e89935089fe79f5f48b4b376105&oe=6168DFD3",
       "nomor_telp":"(0717) 827634",
       "deskripsi":"Warung Bakso Pakde Tardi adalah warung bakso yang telah berdiri sejak 1979",
       "kategori":"Rumah Makan"
     },
     {
       "id":2,
+      "nama":"Warung Gado Gado Adi",
+      "alamat":"Jl. Simpang Batako",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
+      "gambar_url":"https://img-global.cpcdn.com/recipes/d673616eeeb1cbf5/1200x630cq70/photo.jpg",
+      "nomor_telp":"(0717) 827634",
+      "deskripsi":"Warung Gado Gado Adi merupakan warung gado gado yang berbahan sayuran dan lontong",
+      "kategori":"Rumah Makan"
+    },
+    {
+      "id":3,
       "nama":"RM Pangeran Sungailiat",
       "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
@@ -23,7 +34,7 @@
       "kategori":"Rumah Makan"
     },
     {
-      "id":3,
+      "id":4,
       "nama":"Humaira Rusip",
       "alamat":"Jl. Alhayati perumahan falah indah no a17, Kace Tim., Mendo Bar., Kabupaten Bangka, Kepulauan Bangka Belitung 33173",
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
@@ -34,7 +45,7 @@
       "kategori":"Rumah Makan Rusip"
     },
     {
-      "id":4,
+      "id":5,
       "nama":"Warjo (Warung Ijo) Sungailiat",
       "alamat":"Jl. Parai - Pemali No.423, Karya Makmur, Pemali, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 22.00 WIB.",
@@ -45,7 +56,7 @@
       "kategori":"Rumah Makan"
     },
     {
-      "id":5,
+      "id":6,
       "nama":"RM Lamongan Mandiri",
       "alamat":"Jl. Jenderal Sudirman, Sungailiat, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 10.00 WIB - 23.00 WIB.",
@@ -56,7 +67,7 @@
       "kategori":"Rumah Makan"
     },
     {
-      "id":6,
+      "id":7,
       "nama":"Geprek Raja",
       "alamat":"43JW+GFF, Karya Makmur, Pemali, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 20.00 WIB.",
@@ -67,7 +78,7 @@
       "kategori":"Rumah Makan"
     },
     {
-      "id":7,
+      "id":8,
       "nama":"Lempah Kuning",
       "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
@@ -78,7 +89,7 @@
       "kategori":"Makanan Khas"
     },
     {
-      "id":8,
+      "id":9,
       "nama":"Toko Kemplang Tung Phin",
       "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
