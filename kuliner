@@ -92,7 +92,7 @@
       "id":9,
       "nama":"Toko Kemplang Tung Phin",
       "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
-      "jam_buka_tutup":"Setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
+      "jam_buka_tutup":"Setiap Hari Pukul 09.00 WIB - 16.00 WIB.",
       "kordinat":"https://www.google.com/maps/place/Lempah+Kuning+YUKSU/@-1.879549,105.8237983,10z/data=!4m9!1m2!2m1!1sLEMPAH+KUNING!3m5!1s0x2e22f368385d2351:0x494be18576062996!8m2!3d-1.879549!4d106.1039497!15sCg1MRU1QQUggS1VOSU5HWg8iDWxlbXBhaCBrdW5pbmeSARFicnVuY2hfcmVzdGF1cmFudA?hl=id",
       "gambar_url":"https://img-global.cpcdn.com/recipes/d6de273614d1daf1/751x532cq70/kemplang-ikan-khas-bangka-foto-resep-utama.jpg",
       "nomor_telp":"(0717) 974628",
@@ -101,14 +101,14 @@
     },
     {
       "id":10,
-      "nama":"Toko Kemplang Tung Phin",
-      "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
-      "jam_buka_tutup":"Setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
-      "kordinat":"https://www.google.com/maps/place/Lempah+Kuning+YUKSU/@-1.879549,105.8237983,10z/data=!4m9!1m2!2m1!1sLEMPAH+KUNING!3m5!1s0x2e22f368385d2351:0x494be18576062996!8m2!3d-1.879549!4d106.1039497!15sCg1MRU1QQUggS1VOSU5HWg8iDWxlbXBhaCBrdW5pbmeSARFicnVuY2hfcmVzdGF1cmFudA?hl=id",
-      "gambar_url":"https://img-global.cpcdn.com/recipes/d6de273614d1daf1/751x532cq70/kemplang-ikan-khas-bangka-foto-resep-utama.jpg",
-      "nomor_telp":"(0717) 974628",
-      "deskripsi":"Kemplang Khas Bangka yang berbahan ikan",
-      "kategori":"Makanan Khas"
+      "nama":"Kong Djie Coffee,Bar & Resto Sungailiat",
+      "alamat":"Sungailiat, Sungai Liat, Bangka Regency, Bangka Belitung Islands 33215",
+      "jam_buka_tutup":"Setiap Hari, kecuali Selasa Pukul 09.00 WIB - 23.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Kong+Djie+Coffee,Bar+%26+Resto+Sungailiat/@-1.8677747,106.1199515,15z/data=!4m5!3m4!1s0x0:0x1d875e7cc8af5bd6!8m2!3d-1.8678011!4d106.1198912",
+      "gambar_url":"https://www.google.com/maps/uv?pb=!1s0x2e22f3037fe7bab5%3A0x1d875e7cc8af5bd6!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3aSmxW6DA8AJcfY3tuXF5YtCeXYgjSpic1oXV%3Dw263-h128-k-no!5skong%20djie%20sungailiat%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipO3aSmxW6DA8AJcfY3tuXF5YtCeXYgjSpic1oXV&hl=en&sa=X&ved=2ahUKEwio6Kml8oHzAhVzIbcAHXuTDZoQoip6BAhbEAM",
+      "nomor_telp":"+62811711228",
+      "deskripsi":"Restoran yang menjual berbagai macam makanan kekinian dan makanan khas",
+      "kategori":"Restoran"
     }
   ]
 }
