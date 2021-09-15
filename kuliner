@@ -2,6 +2,17 @@
   "kuliner":[
     {
       "id":1,
+      "nama":"Warung Bakso Pakde Tardi",
+      "alamat":"JJalan Singa Yudha 1 No. 2 Pemda, Kelurahan, Bukit Betung, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33211",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
+      "gambar_url":"https://okeyboz.com/wp-content/uploads/2021/01/IMG-20210131-WA0057.jpg",
+      "nomor_telp":"(0717) 827634",
+      "deskripsi":"Warung Bakso Pakde Tardi adalah warung bakso yang telah berdiri sejak 1979",
+      "kategori":"Rumah Makan"
+    },
+    {
+      "id":2,
       "nama":"RM Pangeran Sungailiat",
       "alamat":"Jl. Jenderal Sudirman &, Jl. Pemuda, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
@@ -12,7 +23,7 @@
       "kategori":"Rumah Makan"
     },
     {
-      "id":2,
+      "id":3,
       "nama":"Humaira Rusip",
       "alamat":"Jl. Alhayati perumahan falah indah no a17, Kace Tim., Mendo Bar., Kabupaten Bangka, Kepulauan Bangka Belitung 33173",
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
@@ -23,7 +34,7 @@
       "kategori":"Rumah Makan Rusip"
     },
     {
-      "id":3,
+      "id":4,
       "nama":"Warjo (Warung Ijo) Sungailiat",
       "alamat":"Jl. Parai - Pemali No.423, Karya Makmur, Pemali, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
       "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 22.00 WIB.",
@@ -32,6 +43,50 @@
       "nomor_telp":"(0717) 974628",
       "deskripsi":"Rumah Makan Warjo (Warung Ijo) merupakan cabang di Sungailiat. Warjo ini memiliki cabang dimana mana",
       "kategori":"Rumah Makan"
+    },
+    {
+      "id":5,
+      "nama":"RM Lamongan Mandiri",
+      "alamat":"Jl. Jenderal Sudirman, Sungailiat, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 10.00 WIB - 23.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Lamongan+Mandiri/@-1.8638172,106.1147127,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f30609d37357:0x9b6653cb30de1ede!8m2!3d-1.8638226!4d106.1169014?hl=id",
+      "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/09/e0/c1/38/pecel-lele-mandiri.jpg",
+      "nomor_telp":"+6282377390300",
+      "deskripsi":"Rumah Makan Lamongan Mandiri memiliki banyak cabang di Sungailiat bahkan diluar itu. Rumah makan ini berasal dari Lamongan yang menyediakan berbagai macam makanan",
+      "kategori":"Rumah Makan"
+    },
+    {
+      "id":6,
+      "nama":"Geprek Raja",
+      "alamat":"43JW+GFF, Karya Makmur, Pemali, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 08.00 WIB - 20.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Geprek+Raja/@-2.4200738,105.0880714,8z/data=!4m9!1m2!2m1!1sayam+geprek+raja!3m5!1s0x2e22f38f7f9956ad:0xdc772233eaef11b!8m2!3d-1.8686758!4d106.0961566!15sChBheWFtIGdlcHJlayByYWphWhIiEGF5YW0gZ2VwcmVrIHJhamGSAQVkaW5lcg?hl=id",
+       "gambar_url":"https://d1sag4ddilekf6.azureedge.net/compressed/merchants/6-CY6TNY4HPA5FRT/hero/2cc1eace827e4b07abd6b06b9cd46bd9_1581734924862605539.jpeg",
+      "nomor_telp":"(0717) 974628",
+      "deskripsi":"Ayam Geprek Raja adalah makanan yang berasal dari ayam. Yang berciri khas dengan ayam yang digeprek dengan sambal yang pedas",
+      "kategori":"Rumah Makan"
+    },
+    {
+      "id":7,
+      "nama":"Lempah Kuning",
+      "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Lempah+Kuning+YUKSU/@-1.879549,105.8237983,10z/data=!4m9!1m2!2m1!1sLEMPAH+KUNING!3m5!1s0x2e22f368385d2351:0x494be18576062996!8m2!3d-1.879549!4d106.1039497!15sCg1MRU1QQUggS1VOSU5HWg8iDWxlbXBhaCBrdW5pbmeSARFicnVuY2hfcmVzdGF1cmFudA?hl=id",
+      "gambar_url":"http://koranbogor.com/wp-content/uploads/2019/11/S521screenshot_1153.jpg",
+      "nomor_telp":"(0717) 974628",
+      "deskripsi":"Lempah Kuning adalah makanan khas dari bangka yang diadopsi dengan bahan baku ikan dengan ciri khas rasa kuah yang nikmat",
+      "kategori":"Makanan Khas"
+    },
+    {
+      "id":8,
+      "nama":"Toko Kemplang Tung Phin",
+      "alamat":"Jl. Imam Bonjol, Parit Padang, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung 33215",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 04.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Lempah+Kuning+YUKSU/@-1.879549,105.8237983,10z/data=!4m9!1m2!2m1!1sLEMPAH+KUNING!3m5!1s0x2e22f368385d2351:0x494be18576062996!8m2!3d-1.879549!4d106.1039497!15sCg1MRU1QQUggS1VOSU5HWg8iDWxlbXBhaCBrdW5pbmeSARFicnVuY2hfcmVzdGF1cmFudA?hl=id",
+      "gambar_url":"https://img-global.cpcdn.com/recipes/d6de273614d1daf1/751x532cq70/kemplang-ikan-khas-bangka-foto-resep-utama.jpg",
+      "nomor_telp":"(0717) 974628",
+      "deskripsi":"Kemplang Khas Bangka yang berbahan ikan",
+      "kategori":"Makanan Khas"
     }
   ]
 }
