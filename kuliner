@@ -18,19 +18,19 @@
       "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
       "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
       "gambar_url":"https://scontent.fplm1-1.fna.fbcdn.net/v/t1.6435-9/fr/cp0/e15/q65/147849570_121958163159425_4903759628177472867_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=ed5ff1&efg=eyJpIjoidCJ9&_nc_eui2=AeGXu39qM0Mna-o3xOVgY9qSj0NFv5-hfnyPQ0W_n6F-fAu71Ks_Ff6u6fvkQo0LCEHMHPoirsqcUSB60UgMon56&_nc_ohc=hksn-XE-A-MAX-g1k1Z&_nc_ht=scontent.fplm1-1.fna&oh=57008e89935089fe79f5f48b4b376105&oe=6168DFD3",
-      "nomor_telp":"(0717) 827634",
+      "nomor_telp":"08123456789",
       "deskripsi":"Warung Bakso Pakde Tardi adalah warung bakso yang telah berdiri sejak 1979",
       "kategori":"Rumah Makan"
     },
     {
       "id":2,
-      "nama":"Warung Gado Gado Adi",
-      "alamat":"Jl. Simpang Batako",
-      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 18.00 WIB.",
-      "kordinat":"https://www.google.com/maps/place/Bakso+Pakde+Tardi/@-1.8832234,106.1068992,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f328fbaced07:0x77f12519e292d29e!8m2!3d-1.8832288!4d106.1090879?hl=id",
+      "nama":"Warung Gado Gado Aliu",
+      "alamat":"Jalan Mayor Syafrie Rachman, Sungailiat, Sungai Liat, Bangka Regency, Bangka Belitung Islands 33211",
+      "jam_buka_tutup":"setiap Hari Pukul 09.00 WIB - 17.00 WIB.",
+      "kordinat":"https://www.google.com/maps/place/Gado+Gado+Aliu/@-1.8701482,106.1186657,17z/data=!3m1!4b1!4m5!3m4!1s0x2e22f3a73590d877:0x209d71dfc2143e95!8m2!3d-1.8701536!4d106.1208544?hl=id",
       "gambar_url":"https://img-global.cpcdn.com/recipes/d673616eeeb1cbf5/1200x630cq70/photo.jpg",
-      "nomor_telp":"(0717) 827634",
-      "deskripsi":"Warung Gado Gado Adi merupakan warung gado gado yang berbahan sayuran dan lontong",
+      "nomor_telp":"+6285319230761",
+      "deskripsi":"Warung Gado Gado Adi merupakan warung gado gado yang berbahan sayuran, lontong dengan taburan saos kedelai",
       "kategori":"Rumah Makan"
     },
     {
