@@ -54,6 +54,61 @@
       "nomor_telp":"(0717) 127462",
       "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
       "kategori":"Pantai"
+    },
+     {
+      "id":6,
+      "nama":"Pantai Romodong",
+      "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/07/cb/bc/00/pantai-romodong.jpg",
+      "alamat":"Bukit Ketok, Belinyu, Bangka Regency, Bangka Belitung Islands",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "nomor_telp":"(0717) 127462",
+      "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
+      "kategori":"Pantai"
+    },
+    {
+      "id":7,
+      "nama":"Pantai Parai Tenggiri",
+      "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Pantai-Parai-Tenggiri.jpg",
+      "alamat":"Sinar Baru, Sungai Liat, Bangka Regency, Bangka Belitung Islands",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "nomor_telp":"(0717) 127462",
+      "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
+      "kategori":"Pantai"
+    },
+    {
+      "id":8,
+      "nama":"Benteng Kota Kapur",
+      "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Benteng-Kota-Kapur.jpg",
+      "alamat":"Jl. Nelayan, Kota Kapur, Kec. Mendo Barat, Kab. Bangka, Kepulauan Bangka Belitung",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "nomor_telp":"(0717) 127462",
+      "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
+      "kategori":"Pantai"
+    },
+    {
+      "id":9,
+      "nama":"Batu Belimbing",
+      "gambar_url":"https://cdn1-production-images-kly.akamaized.net/6TIj5IzBtj4A1ClVMZz0z_j_ODk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2856576/original/064497100_1563425288-belimbling.jpg",
+      "alamat":"Tanjung Ketapang, Kec. Bang Toboali, Kab. Bangka Selatan, Kepulauan Bangka Belitung",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "nomor_telp":"(0717) 127462",
+      "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
+      "kategori":"Pantai"
+    },
+    {
+      "id":10,
+      "nama":"Wisata Mangrove Munjang Kurau Barat",
+      "gambar_url":"https://1.bp.blogspot.com/-26ms1_8Nw5c/X5Cmgmmk23I/AAAAAAAAFcI/dSbXZO3L4gsuCST5rFUQ7B9zIYj0v4rUACLcBGAsYHQ/s522/wisata-mangrove-bangka-tengah.jpg",
+      "alamat":"Kurau Barat, Kec. Koba, Kab. Bangka Tengah, Kepulauan Bangka Belitung",
+      "jam_buka_tutup":"setiap Hari Pukul 08.34 WIB - 21.30 WIB.",
+      "kordinat":"https://www.google.com/maps/place/RM+Pangeran+Sungailiat/@-1.885453,106.1132573,15z/data=!4m14!1m8!3m7!1s0x0:0x5e79ec8421429a49!2sRM+Pangeran+Sungailiat!8m2!3d-1.885453!4d106.1132573!14m1!1BCgIgAQ!3m4!1s0x0:0x5e79ec8421429a49!8m2!3d-1.885453!4d106.1132573?hl=id",
+      "nomor_telp":"(0717) 127462",
+      "deskripsi":"Salah satu pantai yang berada di area sekitaran Kep. Bangka Belitung",
+      "kategori":"Pantai"
     }
   ]
 }
