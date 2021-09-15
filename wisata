@@ -4,8 +4,13 @@
       "id":1,
       "nama":"Pantai Romodong",
       "gambar_url":"https://media-cdn.tripadvisor.com/media/photo-s/07/cb/bc/00/pantai-romodong.jpg",
-      "alamat":"Bukit Ketok, Belinyu, Bangka Regency, Bangka Belitung Islands",
-      "link":"<a href="https://www.google.com/maps/place/Romodong+Beach/@-1.5586666,105.7051668,14z/data=!3m1!4b1!4m5!3m4!1s0x2e2253aaaaaaaaab:0x87505940faf81653!8m2!3d-1.5586667!4d105.7226764?hl=en-US"></a>"
+      "alamat":"Bukit Ketok, Belinyu, Bangka Regency, Bangka Belitung Islands"
+    },
+    {
+      "id":2,
+      "nama":"Pantai Parai Tenggiri",
+      "gambar_url":"https://www.andalastourism.com/wp-content/uploads/2020/02/Pantai-Parai-Tenggiri.jpg",
+      "alamat":"Sinar Baru, Sungai Liat, Bangka Regency, Bangka Belitung Islands"
     }
   ]
 }
